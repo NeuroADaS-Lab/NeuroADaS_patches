@@ -200,9 +200,9 @@ The reconstructed volumes are saved in the specified output directory (`output_d
 
 
 # Demo
-<object data="https://github.com/abedmarm/NeuroADaS_patches/blob/main/DEMO_of_patch_extraction_from_images_and_reconstruction_of_patches_into_images.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/abedmarm/NeuroADaS_patches/blob/main/DEMO_of_patch_extraction_from_images_and_reconstruction_of_patches_into_images.pdf">
-        <p>Please view the PDF demo: <a href="https://github.com/abedmarm/NeuroADaS_patches/blob/main/DEMO_of_patch_extraction_from_images_and_reconstruction_of_patches_into_images.pdf">View PDF</a>.</p>
+<object data="https://github.com/NeuroADaS-Lab/NeuroADaS_patches/blob/main/DEMO_of_patch_extraction_and_reconstruction.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/NeuroADaS-Lab/NeuroADaS_patches/blob/main/DEMO_of_patch_extraction_and_reconstruction.pdf">
+        <p>Please view the PDF demo: <a href="https://github.com/NeuroADaS-Lab/NeuroADaS_patches/blob/main/DEMO_of_patch_extraction_and_reconstruction.pdf">View PDF</a>.</p>
     </embed>
 </object>
 
